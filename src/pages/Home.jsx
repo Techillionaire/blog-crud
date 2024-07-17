@@ -51,7 +51,7 @@ const Home = () => {
 
 {
   blogs && blogs.map((b) => (
-    <Blog key={b.id} title={b.title} author={b.author} body={b.body}  onDelete={() => deleteBlog(b.id)} />
+    <Blog key={b.id} id={b.id} title={b.title} author={b.author} body={b.body}  onDelete={() => deleteBlog(b.id)} />
   ))
 }
 
