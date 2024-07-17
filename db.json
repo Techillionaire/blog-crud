@@ -1,0 +1,70 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Understanding Asynchronous JavaScript",
+      "body": "Asynchronous JavaScript is a key concept that allows developers to perform long-running tasks without blocking the main thread. This blog explores callbacks, promises, and async/await.",
+      "author": "John Doe"
+    },
+    {
+      "id": 2,
+      "title": "Mastering React State Management",
+      "body": "State management is a crucial aspect of building React applications. Learn about the various techniques and libraries available to manage state effectively.",
+      "author": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "title": "A Guide to RESTful APIs",
+      "body": "RESTful APIs are the backbone of modern web applications. This blog provides a comprehensive guide on how to design and implement RESTful services.",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": 4,
+      "title": "Getting Started with Node.js",
+      "body": "Node.js is a powerful runtime for building server-side applications. This introduction covers the basics of setting up and using Node.js.",
+      "author": "Bob Lee"
+    },
+    {
+      "id": 5,
+      "title": "CSS Grid vs Flexbox",
+      "body": "CSS Grid and Flexbox are two powerful layout systems. Understand the differences and when to use each in your web design projects.",
+      "author": "Carol Brown"
+    },
+    {
+      "id": 6,
+      "title": "Understanding the DOM",
+      "body": "The Document Object Model (DOM) is essential for web development. Learn how to manipulate the DOM to create dynamic and interactive web pages.",
+      "author": "David Green"
+    },
+    {
+      "id": 7,
+      "title": "Introduction to TypeScript",
+      "body": "TypeScript is a superset of JavaScript that adds static types. This blog introduces TypeScript and its benefits for large-scale applications.",
+      "author": "Eva White"
+    },
+    {
+      "id": 8,
+      "title": "Building a Simple API with Express.js",
+      "body": "Express.js is a popular framework for building APIs with Node.js. Follow this step-by-step guide to create a simple API using Express.",
+      "author": "Frank Black"
+    },
+    {
+      "id": 9,
+      "title": "React Hooks: A Deep Dive",
+      "body": "React Hooks have revolutionized how we write React components. This blog takes a deep dive into hooks and how to use them effectively.",
+      "author": "Grace Park"
+    },
+    {
+      "id": 10,
+      "title": "Understanding Webpack and Babel",
+      "body": "Webpack and Babel are essential tools for modern JavaScript development. Learn how they work together to bundle and transpile your code.",
+      "author": "Henry King"
+    },
+    {
+      "id": null,
+      "title": "how to teach React",
+      "body": "I don tire for this job ooo",
+      "author": "Lee"
+    }
+  ]
+}
